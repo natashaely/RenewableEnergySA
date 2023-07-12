@@ -8,7 +8,7 @@ At the same time, the country's reliance on coal-generated power has come under 
 
 In light of these issues, the South African government has been exploring renewable energy sources to diversify the country's energy mix and reduce its carbon footprint. However, generating renewable energy sources in South Africa is challenging, as it requires significant investments in infrastructure and technology.
 
-The $8.5bn Just Transition Partnership signed at COP26, and a commitment to decarbonise the power sector represent major steps towards the country's net-zero goal by 2050. However, there has been limited progress towards these targets.
+The $8.5bn Just Transition Partnership signed at COP26, and a commitment to decarbonise the power sector represent major steps towards the country's net-zero goal by 2040. However, there has been limited progress towards these targets.
 
 ## More information 
 To view the full project visit natashaely.com 
