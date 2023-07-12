@@ -1,4 +1,4 @@
-# Renewable Energy Generation in South Africa: Data Analysis with Python
+# South Africa's Transition to Clean Energy: Data Analysis with Python
 
 In 2020 South Africa was responsible for 87% of Africa's total coal generation and faces significant challenges in decarbonising its grid. While wind and solar contributed 7% to electricity production, coal accounted for 85% of the country's energy mix in 2022.
 
